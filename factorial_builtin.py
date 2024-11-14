@@ -1,8 +1,8 @@
-from math import *
-
+import math
 n = int(input("enter factorial number\n"))
-r = factorial(n)
+r = math.factorial(n)
 print(r)
+
 
 '''
 #input
